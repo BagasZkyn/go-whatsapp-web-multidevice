@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "BagasZkyn",
+  "repo": "go-whatsapp-web-multidevice",
+  "name": "BagasZkyn",
+  "email": "santrigaming282@gmail.com",
+}
